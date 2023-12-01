@@ -1,2 +1,2 @@
 # portscanner
-py portscanner for skid
+I AM IN NO WAY SHAPE OR FORM RESPONSIBLE FOR MIS-USE OF THIS PROGRAM. YOU ARE ON YOURE OWN.

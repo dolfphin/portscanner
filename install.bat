@@ -1,3 +1,3 @@
 @echo off
-title cmd.exe
-pip install pyfiglet, sys, socket, datetime
+title Downloading...
+python -m pip install -r requirements.txt
